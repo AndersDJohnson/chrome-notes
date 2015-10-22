@@ -1,5 +1,5 @@
-# chrome
-Chrome stuff.
+# chrome-notes
+Chrome notes.
 
 ## Insecure Temporary
 Launches Chrome with with web security disabled but in a temporary profile to protect your data.
